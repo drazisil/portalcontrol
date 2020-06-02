@@ -1,0 +1,7 @@
+name: Portalcontrol
+version: @version@
+main: com.drazisil.com.portalcontrol.Portalcontrol
+api-version: "1.13"
+authors: [Drazisil]
+prefix: PortalControl
+description: Blocks creation of nether portals unless you have permissions
